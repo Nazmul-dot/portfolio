@@ -47,7 +47,7 @@ const Exprience = () => {
                 <Typography variant="h6" component="h1">
                   2
                 </Typography>
-                <Typography>YEARS OF EXPERIENCE</Typography>
+                <Typography>Year Of Eexperience</Typography>
               </Paper>
             </TimelineContent>
           </TimelineItem>
@@ -63,7 +63,7 @@ const Exprience = () => {
                 <Typography variant="h6" component="h1">
                   7
                 </Typography>
-                <Typography>TOTAL CLIENTS</Typography>
+                <Typography>Total Clients</Typography>
               </Paper>
             </TimelineContent>
           </TimelineItem>
@@ -79,7 +79,7 @@ const Exprience = () => {
                 <Typography variant="h6" component="h1">
                   17
                 </Typography>
-                <Typography>WORKS COMPLETED</Typography>
+                <Typography>Works Completed</Typography>
               </Paper>
             </TimelineContent>
           </TimelineItem>
@@ -95,7 +95,7 @@ const Exprience = () => {
                 <Typography variant="h6" component="h1">
                   3
                 </Typography>
-                <Typography>AWARD WON</Typography>
+                <Typography>Award Won</Typography>
               </Paper>
             </TimelineContent>
           </TimelineItem>
