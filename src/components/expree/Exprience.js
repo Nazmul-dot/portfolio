@@ -25,7 +25,6 @@ const useStyles = makeStyles((theme) => ({
 
 const Exprience = () => {
   const classes = useStyles();
-
   return (
 
     <div className='row mx-4 mr-5 my-2 shadow-2xl'>
