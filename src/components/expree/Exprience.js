@@ -33,7 +33,7 @@ const Exprience = () => {
         <h2 className='text-center overflow-hidden'>Experience</h2>
         <hr className='w-3/12 mx-auto' />
       </div>
-      <div className='col-md-7 col-10 mx-auto'>
+      <div className='col-md-7 col-12 mx-auto'>
         <Timeline align="alternate">
           <TimelineItem>
             <TimelineSeparator>
