@@ -124,7 +124,7 @@ const Contact = () => {
                                         </div>
                                         <div class="col-8 mx-auto mt-5">
                                             <textarea name='message' value={message} onChange={handlechange}
-                                                class="form-control" id="exampleFormControlTextarea1" rows="7" placeholder='Youe Message' ></textarea>
+                                                class="form-control" id="exampleFormControlTextarea1" rows="7" placeholder='Your Message' ></textarea>
                                         </div>
                                         <div class="col-8 mx-auto my-2">
                                             <Button type='submit' variant='contained' color='primary' fullWidth >send</Button>

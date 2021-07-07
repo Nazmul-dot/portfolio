@@ -38,7 +38,7 @@ const Home = () => {
             <div className={`vh-100 vw-100 border ${classes.img}`} id='home'>
                 <div className=' text-center overflow-hidden mt-64'>
                     <h2 className={`overflow-hidden capitalize  ${classes.h2}`}>welcome in my personal portfolio</h2>
-                    <h1 className={`home capitalize text-center ml-2 ${classes.font}`}>Hi! I am MERN Stack Developer</h1>
+                    <h1 className={`home capitalize text-center ml-2 ${classes.font}`}>Hi! I am a MERN Stack Developer</h1>
                 </div>
             </div>
         </>
